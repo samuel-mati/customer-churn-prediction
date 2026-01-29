@@ -5,7 +5,7 @@ Customer churn is a major revenue risk for subscription-based telecom companies.
 This project analyzes customer behavior, builds a machine learning churn prediction model, and presents actionable insights through an interactive Power BI dashboard.
 
 **Dashboard Overview (Power BI):**  
-!(Overview)[src/overview.png]
+![src/overview.png](Overview)
 
 ---
 
