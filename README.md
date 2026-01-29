@@ -1,12 +1,11 @@
-# 📉 Telco Customer Churn Analysis & Prediction
+# Telco Customer Churn Analysis & Prediction
 
 ## Executive Summary
 Customer churn is a major revenue risk for subscription-based telecom companies.  
 This project analyzes customer behavior, builds a machine learning churn prediction model, and presents actionable insights through an interactive Power BI dashboard.
 
-🔗 **Dashboard Overview (Power BI):**  
-👉 https://app.powerbi.com/view?r=XXXXXXXX  
-*(Replace with your published dashboard link)*
+**Dashboard Overview (Power BI):**  
+!(Overview)[src/overview.png]
 
 ---
 
